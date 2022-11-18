@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjar N.S</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia</h3>
 
-<img align="right" alt="ngoding bosque" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif"/>
+<img align="right" alt="ngoding bosque" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
 
-- 🔭 I’m currently working on [Rilo Technology Nusantara](https://glints.com/id/companies/rilo-tech/752d97b0-aff2-4ba9-b8d6-d21c17e37073)
+- 🔭 I’m currently working on [Rilo Technology](https://glints.com/id/companies/rilo-tech/752d97b0-aff2-4ba9-b8d6-d21c17e37073)
 
 - 🌱 I’m currently learning **flutter bloc**
 
