@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **dart and flutter**
 
-- 📫 How to reach me **anjar5922@gmail.com**
+- 📫 How to reach me **https://anjarnaufals.github.io/portfolio/**
 
 - ⚡ Fun fact **Cikaracak Ninggang Batu Laun Laun Jadi Legok.**
 
